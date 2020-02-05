@@ -17,4 +17,5 @@ Before joined the [NATURE INSPIRED COMPUTING AND ENGINEERING (NICE) RESEARCH GRO
 ### Contact
 
 Email: xiongjie.chen@surrey.ac.uk
+
 Address: Alan Turing Building, University of Surrey, Guildford, Surrey
