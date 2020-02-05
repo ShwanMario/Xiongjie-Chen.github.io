@@ -10,7 +10,7 @@ I am currently a Ph.D. student working on **Machine Learning** at the [Universit
 
 # Research interests
 
-I am interested in generative models such as VAE and Generative Adversarial Network (GAN), and combining them with the normalizing flow and optimal transport theory. I recently worked on [generalizing sliced wasserstein distance](http://papers.nips.cc/paper/8319-generalized-sliced-wasserstein-distances) by selecting the form of radon transform. [See my on-going project here](https://github.com/ShwanMario/max_sliced_wasserstein_distance).
+I am interested in generative models such as VAE and Generative Adversarial Network (GAN), and combining them with the normalizing flow and optimal transport theory. I recently worked on [generalizing sliced wasserstein distance](http://papers.nips.cc/paper/8319-generalized-sliced-wasserstein-distances) by selecting the form of radon transform. [See this ongoing project here](https://github.com/ShwanMario/max_sliced_wasserstein_distance).
 
 # Header 1
 ## Header 2
