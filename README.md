@@ -10,7 +10,9 @@ I am currently a Ph.D. student working on **Machine Learning** at the [Universit
 
 ## Research interests
 
-I am interested in generative models such as VAE and Generative Adversarial Network (GAN), and combining them with the normalizing flow and optimal transport theory. I recently worked on [generalizing sliced wasserstein distance](http://papers.nips.cc/paper/8319-generalized-sliced-wasserstein-distances) by selecting the form of radon transform. [See this ongoing project here](https://github.com/ShwanMario/max_sliced_wasserstein_distance). Before joined the [NATURE INSPIRED COMPUTING AND ENGINEERING (NICE) RESEARCH GROUP](https://www.surrey.ac.uk/nature-inspired-computing-and-engineering-research-group), I worked on computer vision from the aspect of its application. During my master's degree, I published one [conference paper](https://ieeexplore.ieee.org/abstract/document/8665037) and one [journal paper](http://kns.cnki.net/kcms/detail/Detail.aspx?dbname=CAPJLAST&filename=TJDZ2019082900L&v=) on visual crowd counting based on convolutional neural network.
+I am interested in generative models such as VAE and Generative Adversarial Network (GAN), and combining them with the normalizing flow and optimal transport theory. I recently worked on [generalizing sliced wasserstein distance](http://papers.nips.cc/paper/8319-generalized-sliced-wasserstein-distances) by selecting the form of radon transform. [See this ongoing project here](https://github.com/ShwanMario/max_sliced_wasserstein_distance). 
+
+Before joined the [NATURE INSPIRED COMPUTING AND ENGINEERING (NICE) RESEARCH GROUP](https://www.surrey.ac.uk/nature-inspired-computing-and-engineering-research-group), I worked on computer vision from the aspect of its application. During my master's degree, I published one [conference paper](https://ieeexplore.ieee.org/abstract/document/8665037) and one [journal paper](http://kns.cnki.net/kcms/detail/Detail.aspx?dbname=CAPJLAST&filename=TJDZ2019082900L&v=) on visual crowd counting based on convolutional neural network.
 
 # Header 1
 ## Header 2
