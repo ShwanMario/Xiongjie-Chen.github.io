@@ -9,7 +9,7 @@ Now I'm working on the Variational Auto-Encoder (VAE), Optimial Transport (OT th
 I am currently a Ph.D. student working on **Machine Learning** at the [University of Surrey](https://www.surrey.ac.uk/) under the supervisor of [Dr. Yunpeng Li](https://scholar.google.com/citations?hl=en&user=JzyKdRUAAAAJ). I received my B.Sc. in Mathematics at the Fujian University of Technology and my M.Eng. degree at Tongji University.
 
 #Variational Auto-Encoder(VAE)
-I am interested in generative models such as VAE and Generative Adversarial Network (GAN), and combining them with the normalizing flow and optimal transport theory. I recently worked on [generalizing sliced wasserstein distance](http://papers.nips.cc/paper/8319-generalized-sliced-wasserstein-distances) by selecting the form of radon transform. See my on-going project [here](https://github.com/ShwanMario/max_sliced_wasserstein_distance).
+I am interested in generative models such as VAE and Generative Adversarial Network (GAN), and combining them with the normalizing flow and optimal transport theory. I recently worked on [generalizing sliced wasserstein distance](http://papers.nips.cc/paper/8319-generalized-sliced-wasserstein-distances) by selecting the form of radon transform. [See my on-going project here](https://github.com/ShwanMario/max_sliced_wasserstein_distance).
 
 # Header 1
 ## Header 2
