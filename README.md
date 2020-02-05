@@ -1,16 +1,15 @@
 ## Welcome to My GitHub Pages
 I'm a first year PhD student at the University of surrey in computer science, my research interests main focus on **Statistical Learning, Deep Learning and Computer Vision**. I very much enjoy "playing" with math and codes, especially finding the interesting facts and beautiful structures behind the seemly random data.
 
-Now I'm working on the Variational Auto-Encoder (VAE), Optimial Transport (OT theory) and Partial Differential Equation (PDE) and their applications. See my github page via [this link](https://github.com/ShwanMario/). to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Now I'm working on the Variational Auto-Encoder (VAE), Optimial Transport (OT theory) and Partial Differential Equation (PDE) and their applications. See my github page via [this link](https://github.com/ShwanMario/).
 
 
-Syntax highlighted code block
+#Educational Background
+
+I am currently a Ph.D. student working on **Machine Learning** at the [University of Surrey](https://www.surrey.ac.uk/) under the supervisor of [Dr. Yunpeng Li](https://scholar.google.com/citations?hl=en&user=JzyKdRUAAAAJ). I received my B.Sc. in Mathematics at the Fujian University of Technology and my M.Eng. degree at Tongji University.
+
+#Variational Auto-Encoder(VAE)
+I am interested in generative models such as VAE and Generative Adversarial Network (GAN), and combining them with the normalizing flow and optimal transport theory. I recently worked on [generalizing sliced wasserstein distance](http://papers.nips.cc/paper/8319-generalized-sliced-wasserstein-distances) by selecting the form of radon transform. See my on-going project [here](https://github.com/ShwanMario/max_sliced_wasserstein_distance).
 
 # Header 1
 ## Header 2
