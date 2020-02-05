@@ -1,6 +1,7 @@
 ## Welcome to My GitHub Pages
 I'm a first year PhD student at the University of surrey in computer science, my research interests main focus on **Statistical Learning, Deep Learning and Computer Vision**. I very much enjoy "playing" with math and codes, especially finding the interesting facts and beautiful structures behind the seemly random data.
-You can use the [editor on GitHub](https://github.com/ShwanMario/Xiongjie-Chen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Now I'm working on the Variational Auto-Encoder (VAE), Optimial Transport (OT theory) and Partial Differential Equation (PDE) and their applications. See my github page via [this link](https://github.com/ShwanMario/). to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
