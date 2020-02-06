@@ -6,7 +6,7 @@ Now I'm working on the Variational Auto-Encoder (VAE), Optimial Transport (OT th
 
 ## Educational Background
 
-I am currently a Ph.D. student working on **Machine Learning** at the [University of Surrey](https://www.surrey.ac.uk/) under the supervisor of [Dr. Yunpeng Li](https://scholar.google.com/citations?hl=en&user=JzyKdRUAAAAJ). I received my B.Sc. in Mathematics at the Fujian University of Technology and my M.Eng. degree at Tongji University.
+I am currently a Ph.D. student working on **Machine Learning** at the [University of Surrey](https://www.surrey.ac.uk/) under the supervision of [Dr. Yunpeng Li](https://scholar.google.com/citations?hl=en&user=JzyKdRUAAAAJ). I received my B.Sc. in Mathematics at the Fujian University of Technology and my M.Eng. degree at Tongji University.
 
 ## Research interests
 
